@@ -17,7 +17,7 @@ The verified supported platforms are as follows:
 - FUJITSU PSWITCH 2048T with runtime version 1.3.67.
 - FUJITSU PRIMERGY RX2530 M4 servers and above.
 - iRMC version 3.05P and above.
-- RHOCP 4.9.5 and above within 4.9 release. (Note: 4.10 release is not yet supported.)
+- RHOCP 4.9.5 and above.
 
 ## Overall Architecture and Operation Process
 
